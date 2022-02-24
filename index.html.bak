@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+  <meta charset="UTF-8">
+
+  <title>______0414-HTML5-Flappy-X</title>
+
+    <link rel="stylesheet" href="css/style.css" media="screen" type="text/css" />
+
+</head>
+
+<body>
+
+  <div id="canvasContainer"></div>
+<span id="textInputSpan">
+
+  <input id="textInput" maxlength="10" type="text" width="150" />
+
+</span>
+
+  <script src="js/index.js"></script>
+
+</body>
+
+</html>
